@@ -1,0 +1,87 @@
+html{  background: url(imagenes/paginaprincipal/5.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     }
+
+     	
+       
+h1{ 
+   	color: white;
+    font-family:cursive;
+    text-indent: 0.5em;
+    font-size:250% !important;  
+    font-style: oblique ;
+    background-color: #f0ad4e ;
+   	border-color: transparent ;
+  	border-radius: 90px;
+    position:absolute;
+    left:4px;
+    top:-8px;     
+    width:45%;
+   }
+
+
+.contenedor1 { position:absolute;
+	             left: 980px;
+	             top: 25px;
+             }
+
+
+#b1{ 
+     font-family:"sans-serif";
+	   font-size:150%; 
+     border-radius: 6px;
+	   color: #fff;
+     background-color: #337ab7;
+     border-color: #2e6da4;
+	 } 
+
+#b2	 { 
+     font-family:"sans-serif";
+	   font-size:150%; 
+	   border-radius:6px;
+	   color: #fff;
+     background-color: #5cb85c;
+     border-color: #4cae4c;}
+
+
+.contenedor { position:absolute; 
+              left: 310px;
+              top: 390px;
+            }
+
+#b	 {
+     font-family:"sans-serif";
+	   font-size:140%; 
+	   border-radius:100px;
+	   width:500px; 
+	   text-indent: 1em;
+     border-color:orange;
+     }
+   
+
+#bo {color: #fff;
+     background-color: #f0ad4e;
+     border-color: #eea236;
+     font-family:"sans-serif";
+	   font-size:140%; 
+	   border-radius:90px;
+	   }	  
+	 
+	 
+	 
+#form{ font-family:"sans-serif";  
+       position:relative;
+       left: 83px;
+       top:  100px;
+      }	
+
+    a{color:white;
+     text-decoration:none;
+     }
+
+
+
+        

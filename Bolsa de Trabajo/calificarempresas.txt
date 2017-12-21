@@ -1,0 +1,1 @@
+priscila,True SA,Alta,Si,Si,Si,Excelente empresa;priscila,True SA,Baja,No,No,No,Salario bajo;

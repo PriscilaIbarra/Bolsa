@@ -1,0 +1,26 @@
+html {     
+      background:#1da1f2;;
+      }
+
+
+h1  { 
+      font-family:cursive; 
+     text-align:center;
+     border-color:#1da1f2;; 
+     font-size:250%;
+    }
+
+#f1{color:white; 
+    position:relative;
+    text-align: left;
+    left:20px;
+    top:15px; 
+    font-weight:bolder;
+    width: 30%; 
+    background-color:#1da1f2;;
+    border-color:#1da1f2;
+    border: 5px solid;
+    border-radius:10px; 
+    }
+
+ 
